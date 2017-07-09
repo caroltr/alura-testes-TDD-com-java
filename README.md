@@ -1,1 +1,2 @@
-# alura-testes-TDD-com-java
+# Testes: TDD com Java
+Curso do Alura
